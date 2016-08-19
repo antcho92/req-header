@@ -8,5 +8,17 @@
     "start": "node server.js"
   },
   "author": "Anthony Cho <antcho92@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antcho92/req-header.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antcho92/req-header/issues"
+  },
+  "homepage": "https://github.com/antcho92/req-header#readme"
 }
